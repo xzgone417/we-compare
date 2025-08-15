@@ -6,6 +6,11 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/apps/gradle-8.11.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="external2222ProjectPath" value="$PROJECT_DIR$" />
+        <option name="333" value="C:/apps/gradle-8.11.1" />
+        <option name="33333" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
